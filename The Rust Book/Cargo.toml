@@ -3,6 +3,6 @@ members = [
     "hello_world",
     "hello_cargo",
     "new_guessing_game"
-, "variables_and_mutability", "data_types", "functions"]
+, "variables_and_mutability", "data_types", "functions", "control_flow"]
 
 resolver = "2"
